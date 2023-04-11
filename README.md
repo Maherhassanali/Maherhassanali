@@ -1,6 +1,6 @@
 ### Hello 
 I’m currently learning python to creat a gis package
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmaher90695335
+https://img.shields.io/twitter/follow/maher90695335?style=social
 
 
 <!--
