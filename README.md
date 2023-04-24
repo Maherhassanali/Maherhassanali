@@ -1,7 +1,10 @@
 ### My social media
- ![](https://img.shields.io/twitter/follow/maher90695335?style=social) 
-### youtube channel
-https://www.youtube.com/@maherhassan1990/videos
+ [![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/maher90695335)
+ [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/maher-hamouda-560480168/)
+ [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@maherhassan1990/videos)
+ 
+
+
  
 ### Hello 
 My name is maher 
